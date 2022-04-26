@@ -1,2 +1,2 @@
-# desafioGo
-Desafio Go do Curso Full Cycle
+# Imagem DockerHub:
+adautonheringer/goshrink
